@@ -3,7 +3,7 @@ if  r =  1   Positive Correlation
 	r = -1   Negative Correlation
 	r =  0   No Correlation 
 
-		![Correlation](https://github.com/ShishirPatil/Pearson-Correlation/blob/master/Correlation.png)
+![Correlation](https://github.com/ShishirPatil/Pearson-Correlation/blob/master/Correlation.png)
 
 
 PCC.m 
