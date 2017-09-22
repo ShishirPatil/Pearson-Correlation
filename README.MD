@@ -3,10 +3,11 @@ if  r =  1   Positive Correlation
 	r = -1   Negative Correlation
 	r =  0   No Correlation 
 
-![Correlation](https://github.com/ShishirPatil/Pearson-Correlation/blob/master/Correlation.png)
+		![Correlation](https://github.com/ShishirPatil/Pearson-Correlation/blob/master/Correlation.png)
 
 
 PCC.m 
+
 	This file defines the function 'PCC'
 	This function finds the Pearson Product-Moment Coefficient of correlation across all the columns in a given data file.
 	Prototype: [Correlation_Coefficient Degrees of Freedom] = PCC('_insert_file_name_here_.csv')
