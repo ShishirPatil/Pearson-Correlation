@@ -1,8 +1,6 @@
 % This file calculates the Pearson Product-moment coefficient(r) implemented 
 % from http://psc.dss.ucdavis.edu/sommerb/sommerdemo/correlation/hand/pearson_hand.htm
 % 'r' represents the correlation coefficient
-
-
 clc;
 close all;
 clear all;
@@ -26,6 +24,8 @@ den = sqrt(densq);
 
 r = num./den;
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Compute Correlation Coefficient %%%%%%%%%%%%%%%%%%%%%%%%% 
+
 disp('Correlation Coefficient (r): ');
 disp(r);
 
@@ -35,12 +35,3 @@ df=N-2;
 disp('Number of degrees of freedom (df): ');
 disp(df);
 plot(X,Y)
-
-
-
-
-
-
-
-
-
